@@ -2,7 +2,7 @@
 
 A modern web application for discovering and saving your favorite recipes. Built with HTML, CSS, and JavaScript, this app provides a seamless experience for finding, viewing, and managing recipes.
 
-![Recipe Finder App](https://via.placeholder.com/800x400?text=Recipe+Finder+App)
+![Recipe Finder App](https://venu1011.github.io/Recipe-Finder/)
 
 ## ✨ Features
 
@@ -131,9 +131,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@Venu]
+Your Name - [@S.Venu](venushanmugam@gmail.com)
 
-Project Link: [https://github.com/yourusername/recipe-finder](https://github.com/yourusername/recipe-finder)
+Project Link: [https://github.com/yvenu1011.github/recipe-finder](https://venu1011.github.io/Recipe-Finder/)
 
 ---
 
