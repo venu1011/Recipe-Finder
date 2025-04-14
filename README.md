@@ -2,7 +2,7 @@
 
 A modern web application for discovering and saving your favorite recipes. Built with HTML, CSS, and JavaScript, this app provides a seamless experience for finding, viewing, and managing recipes.
 
-![Recipe Finder App](https://venu1011.github.io/Recipe-Finder/)
+!Live Demo :    (https://venu1011.github.io/Recipe-Finder/)
 
 ## ✨ Features
 
