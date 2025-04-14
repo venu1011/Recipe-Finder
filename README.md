@@ -50,7 +50,7 @@ A modern web application for discovering and saving your favorite recipes. Built
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/recipe-finder.git
+git clone  https://github.com/venu1011/Recipe-Finder.git
 ```
 
 2. Navigate to the project directory:
